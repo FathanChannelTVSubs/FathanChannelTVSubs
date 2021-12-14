@@ -1,0 +1,23 @@
+{
+ charName: 
+ "Red",
+ "Green",
+ "Lime",
+ "Orange",
+ "Yellow",
+ "Purple",
+ "Pink",
+ "Gray",
+ "Black"
+ 
+ charImages:
+ "Red.png",
+ "Green.png",
+ "Lime.png",
+ "Orange.png",
+ "Yellow.png",
+ "Purple.png",
+ "Pink.png",
+ "Gray.png",
+ "Black.png"
+}
