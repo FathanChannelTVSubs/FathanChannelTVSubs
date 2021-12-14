@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @FathanChannelTVSubs
 - 👀 I’m interested in Youtube!
-- 🌱 I’m currently learning English!
 - 💞️ I’m looking to collaborate on Fathan_Teams!
 - 📫 How to reach me On Discord?
 
