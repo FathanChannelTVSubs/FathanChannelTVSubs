@@ -31,7 +31,7 @@ To Install The LuaJIT, Do This. haxelib install linc_luajit On A Command Prompt/
 * Innersloth - Co-Coder
 * bbpanzu - Co-Charter
 * aflac - Weeks
-* ____________________________
+____________________________
 
 ## Features:
 
