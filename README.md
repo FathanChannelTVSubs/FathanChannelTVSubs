@@ -40,34 +40,47 @@ ____________________________
 
 ## New Awards
 New 6 Awards That You Can Get On The Game! Do The Challenge Buddy!
+![](![example](https://user-images.githubusercontent.com/96095677/145975658-6d73117c-9a55-449b-bd7a-37d194cb5998.png)
 
 ## New Weeks
 ### Engineer Week:
 * New Engineer Character
 * New Sussy Bussy, Rivals And Defeat Song
 * New InstaKill Mechanic
+![Orange](https://user-images.githubusercontent.com/96095677/145975815-8b68572e-ea93-4543-a9d8-a5a13a0886ed.png)
+
 ### Shapeshifter Week:
 * New Shapeshifter Character
 * New Sussus Toogus, Lights Down And Reactor Song
 * New Health Drain Mechanic
 * New Bullet Notes
 * New Rage (Can You Rage?)
+![Lime](https://user-images.githubusercontent.com/96095677/145975881-a717acdc-968e-41a2-9b4b-bd238d47b062.png)
+
 ### Green Week:
 * New Green Character
 * New Watch Out, Apprehensive, Double Trouble Song
 * New Camera Zoom Mechanic
+![Green](https://user-images.githubusercontent.com/96095677/145975908-5e0bbc78-5af5-4fca-aa4e-6e5e04e7f5cd.png)
+
 ### Red Week:
 * New Red Character
 * New Thunderstorm, God Eater, Talladega
 * New Camera Shake Mechanic
+![Red](https://user-images.githubusercontent.com/96095677/145975935-66a3fdb0-4288-4e84-a97f-a561ba3408b0.png)
+
 
 ## New Options
 * Flashing Lights Settings
 * DFJK Binding Settings
-* ASKL Binfing Settings
+* ASKL Binding Settings
+* Profile Settings
+![options](https://user-images.githubusercontent.com/96095677/145976548-07bce09b-4331-46f5-be3d-3fa88cf2f0bb.png)
+
 
 ## New Secrets
 * LOL Secret Can Be Found On [PsychEngine/mods/LOL]
 * haha you get rickrolled
 * Among Us' Ass Picture
 * Distraction
+![image](https://user-images.githubusercontent.com/96095677/145976660-d80ff900-5ada-4573-9700-f42170bca66a.png)
