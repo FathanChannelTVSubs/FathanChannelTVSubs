@@ -83,19 +83,19 @@ class CreditsState extends MusicBeatState
 			['PhantomArcade',		'phantomarcade',	"Animator of Friday Night Funkin'",						'https://twitter.com/PhantomArcade3K',	'FFBB1B'],
 			['evilsk8r',			'evilsk8r',			"Artist of Friday Night Funkin'",						'https://twitter.com/evilsk8r',			'53E52C'],
 			['kawaisprite',			'kawaisprite',		"Composer of Friday Night Funkin'",						'https://twitter.com/kawaisprite',		'6475F3']
-      [''],
-      ["VS Imposter V4 Team"],
-      ['FathanChannelTVSubs', 'fathanchanneltvsubs', "Director'", 'https://twitter.com/FathanChannelTV', 'FFBB1B'],
-      ['Jazz', 'jazz', 'Sprites'", 'https://twitter.com/Jazz', 'FFBB1B'],
-      ['Rareblin', 'rareblin', 'Singer'", 'https://twitter.com/Rareblin', 'FFBB1B'],
-      ['Gibrangibran', 'gibrangibran', 'Charter'", 'https://twitter.com/Gibrangibranshit', 'FFBB1B'],
-      ['TaeYai', 'taeyai', 'Coder'", 'https://twitter.com/TaeYai', 'FFBB1B'],
-      ['YingYang', 'yingyang', 'Publisher'", 'https://twitter.com/YingYang', 'FFBB1B'],
-      ['Rozebud', 'rozebud', 'Custom Events And Notetypes", 'https://twitter.com/Rozebud', 'FFBB1B'],
-      ['Cval', 'cval', 'Story Menu Sprites'", 'https://twitter.com/Cval', 'FFBB1B'],
-      ['Crossed', 'crossed', 'XML File Generator'", 'https://twitter.com/Crossed', 'FFBB1B'],
-      ['Clowfoe', 'clowfoe', 'LOL Folder Creator'", 'https://twitter.com/ClowFoe', 'FFBB1B]
-      [''],
+                        [''],
+                        ["VS Imposter V4 Team"],
+                        ['FathanChannelTVSubs', 'fathanchanneltvsubs', "Director'", 'https://twitter.com/FathanChannelTV', 'FFBB1B'],
+                        ['Jazz', 'jazz', 'Sprites'", 'https://twitter.com/Jazz', 'FFBB1B'],
+                        ['Rareblin', 'rareblin', 'Singer'", 'https://twitter.com/Rareblin', 'FFBB1B'],
+                        ['Gibrangibran', 'gibrangibran', 'Charter'", 'https://twitter.com/Gibrangibranshit', 'FFBB1B'],
+                        ['TaeYai', 'taeyai', 'Coder'", 'https://twitter.com/TaeYai', 'FFBB1B'],
+                        ['YingYang', 'yingyang', 'Publisher'", 'https://twitter.com/YingYang', 'FFBB1B'],
+                        ['Rozebud', 'rozebud', 'Custom Events And Notetypes", 'https://twitter.com/Rozebud', 'FFBB1B'],
+                        ['Cval', 'cval', 'Story Menu Sprites'", 'https://twitter.com/Cval', 'FFBB1B'],
+                        ['Crossed', 'crossed', 'XML File Generator'", 'https://twitter.com/Crossed', 'FFBB1B'],
+                        ['Clowfoe', 'clowfoe', 'LOL Folder Creator'", 'https://twitter.com/ClowFoe', 'FFBB1B]
+                        [''],
 		];
 		
 		for(i in pisspoop){
