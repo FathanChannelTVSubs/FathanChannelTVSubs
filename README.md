@@ -47,7 +47,8 @@ ____________________________
 ## Features:
 
 ## Brand New Main Menu, Pause Menu And Game Over Theme
-![](https://i.ytimg.com/an_webp/31p4yVdORrg/mqdefault_6s.webp?du=3000&sqp=COCg4Y0G&rs=AOn4CLCmbqTCxE9OsaAu8_ICu_A9kvPSyg)
+![examplegif](https://user-images.githubusercontent.com/96095677/146102989-39f74334-8a34-4ca3-ae49-0b9a109e877d.gif)
+
 
 ## New Awards
 New 6 Awards That You Can Get On The Game! Do The Challenge Buddy!
