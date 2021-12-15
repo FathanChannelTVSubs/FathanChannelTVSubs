@@ -113,3 +113,53 @@ New 6 Awards That You Can Get On The Game! Do The Challenge Buddy!
 * **Repositioned** The Main Menu Buttons
 * Each Button Has Custom **BG**
 ![Red Is Subscribing](https://user-images.githubusercontent.com/96095677/146102247-503a8a38-423f-48e6-b187-0c9c0d0493eb.png)
+
+## New Leaks
+### Red Imposter
+* The First Imposter Of The Mod
+* Jerma's Army
+* Memer
+* Placed On Jerma Week
+![Red](https://user-images.githubusercontent.com/96095677/146104869-82b2ce7f-7bbf-472b-83f5-9338c5c10173.png)
+### Green Imposter
+* The Second Imposter Of The Mod
+* The Strongest Imposter
+* Gay Of Red Imposter
+* The Toxic Imposter, He Said **FUCK**
+![Green](https://user-images.githubusercontent.com/96095677/146105207-f74eeba5-5098-403f-8494-58c227886a64.png)
+### Shapeshifter Imposter
+* The Third Imposter Of The Mod
+* The Other Strongest Imposter
+* The Hider Imposter
+* The Almost Ejected Imposter
+![Lime](https://user-images.githubusercontent.com/96095677/146105562-7f102fc4-40e6-48b6-8d63-f431331a6b60.png)
+### Engineer Crewmate
+* The Fisrt Crewmate Of The Mod
+* Ejected Out By Boyfriend
+* Can Vent But Boyfriend Shits Him
+* The Most Sus Man
+![Orange](https://user-images.githubusercontent.com/96095677/146105797-3b597575-8e1b-48cc-b2fb-3fb2035400be.png)
+### Scientist Crewmate
+*  The Second Crewmate Of The Mod
+*  Blames Boyfriend That Killed Someone
+*  Always Run When Founding A Body On His Ipad
+![Yellow](https://user-images.githubusercontent.com/96095677/146105980-604364dd-b5c4-4bb4-aeb5-e71484fa9994.png)
+### Guardian Angel Crewmate
+* The Third Crewmate Of The Mod
+* Can Protect Crewmates
+* The First Dead Crewmate
+![Purple](https://user-images.githubusercontent.com/96095677/146110457-3f4a6a6c-0bfb-4b4b-8af3-6fa8e54e78ad.png)
+### Grey Crewmate
+* The Fourth Crewmate Of The Mod
+* The Dumbest Or Foolest Crewmate
+* Looks Like Hiding Something
+![Gray](https://user-images.githubusercontent.com/96095677/146110747-f0da95ad-af8d-47c2-931b-46de26578363.png)
+### Black Crewmate
+* The Fifth Crewmate Of The Mod
+* Are You Battling Dead Crewmate
+![Black](https://user-images.githubusercontent.com/96095677/146110825-5479e920-06f0-4e96-84c9-27d3847d3512.png)
+### Pink Imposter
+* The Fourth Imposter Of the Mod
+* The Wife Of Lime
+* Smart Imposter
+![Pink](https://user-images.githubusercontent.com/96095677/146110970-9a55bcde-18c5-4ec4-b1c0-44501b3792d8.png)
