@@ -164,3 +164,19 @@ New 6 Awards That You Can Get On The Game! Do The Challenge Buddy!
 * Smartest Imposter
 
 ![Pink](https://user-images.githubusercontent.com/96095677/146110970-9a55bcde-18c5-4ec4-b1c0-44501b3792d8.png)
+### White Crewmate
+* The Sixth Crewmate Of The Mod
+* The Dumbest Imposter
+* Always Tired When Meet Someone
+* Always Holding A Fake Gun
+![White](https://user-images.githubusercontent.com/96095677/146125382-39abde53-4788-44a1-9745-17fb61f5d678.png)
+### Blue Imposter
+* The Fifth Imposter Of The Mod
+* The Brutalest Imposter
+* Always Called Good By Crewmates
+![Blue](https://user-images.githubusercontent.com/96095677/146125557-905e3312-ba1e-4ee7-b532-b9a8ef460bfc.png)
+### Lime And Pink
+* Shown On Trrapped Song
+* Pink Was Trying To Kiss Lime
+* On The End Of Song They Kissed
+![Lime And Pink](https://user-images.githubusercontent.com/96095677/146125774-0e8aa92e-c3d8-4c14-8d26-b91b6751fc6c.png)
