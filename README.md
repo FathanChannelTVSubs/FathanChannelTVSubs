@@ -161,5 +161,6 @@ New 6 Awards That You Can Get On The Game! Do The Challenge Buddy!
 ### Pink Imposter
 * The Fourth Imposter Of the Mod
 * The Wife Of Lime
-* Smart Imposter
+* Smartest Imposter
+
 ![Pink](https://user-images.githubusercontent.com/96095677/146110970-9a55bcde-18c5-4ec4-b1c0-44501b3792d8.png)
