@@ -2,18 +2,23 @@
 Game That Originally From The [Vs Impostor Mod](https://gamebanana.com/mods/55652). Not Like The Original One, This One Is Weird. The Graphic of Characters Is Low Quality.
 Created By A Creator Called [Fathan Channel TV](https://twitter.com/FathanChannelTV). He's An Ordinary Youtuber. He's Subscribers Are 231. Subscribe Him PLZ. [Click Here](https://youtube.com/c/FathanChannelTV).
 Clowfoe Is Start Joining [Fathan_Teams](https://www.youtube.com/channel/UCg4S-Cxkr8CB24prjHVdRmA), Due To Boring At Creating VS Impostor V4.
+![shit](https://user-images.githubusercontent.com/96095677/146099221-52088fec-f217-42fc-8af6-27c6fa2938a7.png)
 
 ## Download:
 If You Want To Download The Original Mod, [Click Here](https://gamebanana.com/mods/342732).
 And You Must Have 64bit Windows Of Your Windows 10. Or, Your Game Will Be Laggy.
+
+![fathanimposter](https://user-images.githubusercontent.com/96095677/146099419-432df507-bda3-4b0a-935a-521598d8d2e7.png)
+
 
 ## Installation:
 If You Want To Code The Mod Use [The Most Up To Date Version Of Haxe](https://haxe.org/download/). Seriously, Don't Use
 Haxe 4.1.5 Or It'll Messes Up.
 
 Download The LuaJIT For Follow Friday Night Funkin'.
-To Install The LuaJIT, Do This. haxelib install linc_luajit On A Command Prompt/PowerShell
+To Install The LuaJIT, Do This. `haxelib install linc_luajit` On A Command Prompt/PowerShell
 
+![Fathan Dab](https://user-images.githubusercontent.com/96095677/146099494-4fbec0ac-fe1f-4423-9586-2a4aacf1574f.jpg)
 ## Credits:
 * FathanChannelTVsub - Director
 * Jazz - Sprites
@@ -25,12 +30,18 @@ To Install The LuaJIT, Do This. haxelib install linc_luajit On A Command Prompt/
 * Crossed - XML File Generator
 * Clowfoe - LOL Folder Creator
 
+![Fathan](https://user-images.githubusercontent.com/96095677/146099697-234c30c6-3212-4b7b-981c-38e484c4d9b7.jpg)
+
+
 ## Special Thanks:
 * Retrogamerizzat - Tester
 * Janeetabendy - Co-Director
-* Innersloth - Co-Coder
+* InnerslothFakeLOL - Co-Coder
 * bbpanzu - Co-Charter
 * aflac - Weeks
+
+![Spagghetti Man](https://user-images.githubusercontent.com/96095677/146099718-0e08a1b5-439c-4fce-9d0e-153f8ee7021e.jpg)
+
 ____________________________
 
 ## Features:
@@ -40,7 +51,7 @@ ____________________________
 
 ## New Awards
 New 6 Awards That You Can Get On The Game! Do The Challenge Buddy!
-![](![example](https://user-images.githubusercontent.com/96095677/145975658-6d73117c-9a55-449b-bd7a-37d194cb5998.png)
+![example](https://user-images.githubusercontent.com/96095677/145975658-6d73117c-9a55-449b-bd7a-37d194cb5998.png)
 
 ## New Weeks
 ### Engineer Week:
@@ -84,3 +95,19 @@ New 6 Awards That You Can Get On The Game! Do The Challenge Buddy!
 * Among Us' Ass Picture
 * Distraction
 ![image](https://user-images.githubusercontent.com/96095677/145976660-d80ff900-5ada-4573-9700-f42170bca66a.png)
+
+## New Mechanics
+* New InstaKill Mechanic That Can Make Your Own **Rage**
+* New Health Drain Mechanic That Again, **RAGE**
+![Die My Boy](https://user-images.githubusercontent.com/96095677/146101210-6700e6ed-7e95-48ea-8cea-666de36959e6.png)
+
+## New Notes
+* New Bullet Notes That You Miss It Equals **Rage Quit** Insanely
+* New Knife Notes That You Press It Equals **Game Over**.
+![Knife N Bullets](https://user-images.githubusercontent.com/96095677/146100571-fbcd98ae-5366-42e6-a0d1-5adf4a1f7d30.png)
+
+## New Menu
+* Changed Donate Button To **Subscribe** Button
+* **Repositioned** The Main Menu Buttons
+* Each Button Has Custom **BG**
+![Red Is Subscribing](https://user-images.githubusercontent.com/96095677/146102247-503a8a38-423f-48e6-b187-0c9c0d0493eb.png)
