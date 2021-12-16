@@ -11,3 +11,7 @@ Play Soccer - Yeah
 Learning - Nope
 
 **DUDURO IS SHIT**.
+LOLOLOL
+
+STUPID
+ASS.
