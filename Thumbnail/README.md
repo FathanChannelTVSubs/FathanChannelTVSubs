@@ -12,6 +12,6 @@ And It Requires 64 Bit Windows. Or, Your Game Will Be Much, Much Laggy.
 
 ## Installation:
 You Want To **Code** The **Mod**? Follow These **Steps**!
-First, Download [The Most Up To Date Version Of Haxe](https://haxe.org/downloads)
+First, Download [The Most Up To Date Version Of Haxe](https://haxe.org/download)
 Second, You Must Install **LuaJit**. To Install **LuaJit**, You Must Type `haxelib install linc_luajit`
 Don't Use **Haxe 4.1.5**. Or The Code Will Be **Mess Up**!
