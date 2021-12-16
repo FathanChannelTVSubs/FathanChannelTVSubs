@@ -1,4 +1,4 @@
-I HAve A **Secret**!
+I Have A **Secret**!
 This Is The Secret!
 Scroll Down!
 
