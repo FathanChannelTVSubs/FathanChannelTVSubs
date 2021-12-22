@@ -17,7 +17,19 @@ If You Want To Code The Mod Use [The Most Up To Date Version Of Haxe](https://ha
 Haxe 4.1.5 Or It'll Messes Up.
 
 Download The LuaJIT For Follow Friday Night Funkin'.
-To Install The LuaJIT, Do This. `haxelib install linc_luajit` On A Command Prompt/PowerShell
+To Install The LuaJIT, Do This. `haxelib install linc_luajit` On A Command Prompt/PowerShell.
+
+And, You Need To Install Fathan Coding Setup. To Install It, You Must Install It Right [Here](https://sites.google.com/view/fathanchanneltvwebsite/fathan-coding-setup).
+Don't Forget Do This. `haxelib install linc_fathansetup` On A Command Prompt/Powershell.
+
+Don't Forget To Do This Also!
+```
+fathancoding
+fatsetup
+fatflixel
+haxefat
+```
+And Do `fathan flixel newgrounds` And `run setup newgrounds fathan flixel`.
 
 ![Fathan Dab](https://user-images.githubusercontent.com/96095677/146099494-4fbec0ac-fe1f-4423-9586-2a4aacf1574f.jpg)
 ## Credits:
