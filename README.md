@@ -20,7 +20,7 @@ Download The LuaJIT For Follow Friday Night Funkin'.
 To Install The LuaJIT, Do This. `haxelib install linc_luajit` On A Command Prompt/PowerShell.
 
 And, You Need To Install Fathan Coding Setup. To Install It, You Must Install It Right [Here](https://sites.google.com/view/fathanchanneltvwebsite/fathan-coding-setup).
-Don't Forget Do This. `haxelib install linc_fathansetup` On A Command Prompt/Powershell.
+Don't Forget Do This. `haxelib install linc_fathansetup` On A Command Prompt/Powershell. The Version Must Be 1.0.2.
 
 Don't Forget To Do This Also!
 ```
